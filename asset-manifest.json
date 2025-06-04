@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/REACT-ART-CRITIC/static/css/main.1624d5f1.chunk.css",
+    "main.js": "/REACT-ART-CRITIC/static/js/main.9c642fd7.chunk.js",
+    "main.js.map": "/REACT-ART-CRITIC/static/js/main.9c642fd7.chunk.js.map",
+    "runtime-main.js": "/REACT-ART-CRITIC/static/js/runtime-main.1240eec6.js",
+    "runtime-main.js.map": "/REACT-ART-CRITIC/static/js/runtime-main.1240eec6.js.map",
+    "static/js/2.6f2b4fb8.chunk.js": "/REACT-ART-CRITIC/static/js/2.6f2b4fb8.chunk.js",
+    "static/js/2.6f2b4fb8.chunk.js.map": "/REACT-ART-CRITIC/static/js/2.6f2b4fb8.chunk.js.map",
+    "static/js/3.331ae4c8.chunk.js": "/REACT-ART-CRITIC/static/js/3.331ae4c8.chunk.js",
+    "static/js/3.331ae4c8.chunk.js.map": "/REACT-ART-CRITIC/static/js/3.331ae4c8.chunk.js.map",
+    "index.html": "/REACT-ART-CRITIC/index.html",
+    "precache-manifest.aac44e0a79d6ccfa15c5bd7ff08fd995.js": "/REACT-ART-CRITIC/precache-manifest.aac44e0a79d6ccfa15c5bd7ff08fd995.js",
+    "service-worker.js": "/REACT-ART-CRITIC/service-worker.js",
+    "static/css/main.1624d5f1.chunk.css.map": "/REACT-ART-CRITIC/static/css/main.1624d5f1.chunk.css.map",
+    "static/js/2.6f2b4fb8.chunk.js.LICENSE.txt": "/REACT-ART-CRITIC/static/js/2.6f2b4fb8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1240eec6.js",
+    "static/js/2.6f2b4fb8.chunk.js",
+    "static/css/main.1624d5f1.chunk.css",
+    "static/js/main.9c642fd7.chunk.js"
+  ]
+}
